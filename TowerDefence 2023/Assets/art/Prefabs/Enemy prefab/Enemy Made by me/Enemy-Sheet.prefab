@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: -3358599796134858774}
   m_Layer: 6
   m_Name: Enemy-Sheet
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -151,5 +151,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2922d1cc9e1a78a44b1ac90c0432b85f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hitPoint: 2
-  currencyWorth: 50
+  hitPoint: 6
+  currencyWorth: 25

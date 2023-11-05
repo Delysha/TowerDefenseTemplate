@@ -9,11 +9,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2401564301472791888, guid: 77fe400e2652efa448f829e7e51c5195, type: 3}
       propertyPath: targetRange
-      value: 10
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2401564301472791888, guid: 77fe400e2652efa448f829e7e51c5195, type: 3}
+      propertyPath: rotationSpeed
+      value: 300
       objectReference: {fileID: 0}
     - target: {fileID: 2401564301472791888, guid: 77fe400e2652efa448f829e7e51c5195, type: 3}
       propertyPath: BulletPerSecond
-      value: 5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2401564301472791889, guid: 77fe400e2652efa448f829e7e51c5195, type: 3}
       propertyPath: m_RootOrder
@@ -61,7 +65,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2401564301472791890, guid: 77fe400e2652efa448f829e7e51c5195, type: 3}
       propertyPath: m_Name
-      value: TestTurret
+      value: FastShooter
       objectReference: {fileID: 0}
     - target: {fileID: 2401564301841908658, guid: 77fe400e2652efa448f829e7e51c5195, type: 3}
       propertyPath: m_Color.b
