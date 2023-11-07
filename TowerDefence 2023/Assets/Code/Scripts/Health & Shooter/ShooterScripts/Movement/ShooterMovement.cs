@@ -78,10 +78,5 @@ public class ShooterMovement: MonoBehaviour
     }
 
 
-    private void OnDrawGizmosSelected()
-    {
-        Handles.color = Color.red;
-        Handles.DrawWireDisc(transform.position, transform.forward, targetRange);
-    }
 }
  
