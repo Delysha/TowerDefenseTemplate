@@ -11,10 +11,10 @@ als je helaas je 8 health verliest ben je gedelete door Del de virus. Er zijn 5 
 ## Product 1: "DRY SRP Scripts op GitHub"
 
 *Dit script is DRY omdat je alleen er voor zorgt dat je als je op de plots hovered dat je er Shooters op kan zetten. en ik hoef me zelf er daardoor niet te repeaten.*
-![Link naar Script](https://github.com/Delysha/TowerDefenseTemplate/blob/master/TowerDefence%202023/Assets/Code/Scripts/Plots/Plot/Plot.cs)
+[Link naar Script](https://github.com/Delysha/TowerDefenseTemplate/blob/master/TowerDefence%202023/Assets/Code/Scripts/Plots/Plot/Plot.cs)
 
 *dit script is SRP omdat het is gemaakt om 1 ding te doen en dat is de enemy te laten bewegen met de waypoints*
-![Link naar Script](https://github.com/Delysha/TowerDefenseTemplate/blob/master/TowerDefence%202023/Assets/Code/Scripts/Enemy%20Scripts/EnemyMover/EnemyMovement.cs)
+[Link naar Script](https://github.com/Delysha/TowerDefenseTemplate/blob/master/TowerDefence%202023/Assets/Code/Scripts/Enemy%20Scripts/EnemyMover/EnemyMovement.cs)
 
 ## Product 2: "Projectmappen op GitHub"
 
@@ -27,11 +27,11 @@ dit is de link naar de [Build](https://github.com/Delysha/TowerDefenseTemplate/r
 
 ## Product 4: "Game met Sprites(animations) en Textures "
 
-![Textures Sprites](readmeVisuals/TRIAL____________2023-12-06%2014-45-04.mp4)
+![Textures Sprites](readmeVisuals/Game.gif)
 
 ## Product 5: "Issues met debug screenshots op GitHub "
 
-Zodra je bugs tegenkomt maak je een issue aan op github. In de issue omschrijf je het probleem en je gaat proberen via breakpoints te achterhalen wat het probleem is. Je maakt screenshot(s) van het debuggen op het moment dat je via de debugger console ziet wat er mis is. Deze screenshots met daarbij uitleg over het probleem en de bijhorende oplossing post je in het bijhorende github issue. 
+Zodra je bugs tegenkomt maak je een issue aan op github. In de issue omschrijf je het probleem en je gaat proberen via breakpoints te achterhalen wat het probleem is. Je maakt screenshot(s) van het debuggen op het moment dat je via de debugger console ziet wat er mis is. Deze screenshots met daarbij uitleg over het probleem en de bijhorende oplossing post je in het bijhorende github issue.
 [Hier de link naar mijn issues](https://github.com/erwinhenraat/TowerDefenseTemplate/issues/)
 
 ## Product 6: "Game design met onderbouwing "
