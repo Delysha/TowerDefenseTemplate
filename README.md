@@ -1,13 +1,12 @@
 # TowerDefence Game
 
 dit is mijn tower Defense voor de BO van periode 5. In mijn Tower Defense moet je de flower Garden Beschermen tegen Slechte paarse Delete Virusen.
-je kan 2 verschillende towers kopen waardoor je ze beter kan beschermen. bij elke Virus die je dood krijg je 25 coins voor terug. 
-als je helaas je 8 health verliest ben je gedelete door Del de virus. Er zijn 5 waves die je moet halen om te winnen. 
+je kan 2 verschillende towers kopen waardoor je ze beter kan beschermen. bij elke Virus die je dood krijg je 25 coins voor terug.
+als je helaas je 8 health verliest ben je gedelete door Del de virus. Er zijn 5 waves die je moet halen om te winnen.
 
 ![Purple Dels](https://github.com/Delysha/TowerDefenseTemplate/blob/develop/readmeVisuals/Invasion%20Of%20The%20purple%20dels.png)
 
-![Game in Action](https://github.com/Delysha/TowerDefenseTemplate/blob/develop/readmeVisuals/The%20towerDefence%20actions.png0)
-
+![Game in Action](https://github.com/Delysha/TowerDefenseTemplate/blob/develop/readmeVisuals/The%20towerDefence%20actions.png)
 
 ## Product 1: "DRY SRP Scripts op GitHub"
 
@@ -21,21 +20,21 @@ als je helaas je 8 health verliest ben je gedelete door Del de virus. Er zijn 5 
 
 Dit is de [ROOT](https://github.com/Delysha/TowerDefenseTemplate/tree/master/TowerDefence%202023) folder van mijn unity project.
 
-.
-## Product 3: Build op Github
+## Product 3: "Build op Github"
 
 *ik heb mijn build in Github gezet en die is ook daarom nu af.*
 dit is de link naar de [Build](https://github.com/Delysha/TowerDefenseTemplate/releases/tag/Release02)
 
-## Product 4: Game met Sprites(animations) en Textures
+## Product 4: "Game met Sprites(animations) en Textures "
+
 ![Textures Sprites](readmeVisuals/TRIAL____________2023-12-06%2014-45-04.mp4)
 
-## Product 5: Issues met debug screenshots op GitHub 
+## Product 5: "Issues met debug screenshots op GitHub "
 
 Zodra je bugs tegenkomt maak je een issue aan op github. In de issue omschrijf je het probleem en je gaat proberen via breakpoints te achterhalen wat het probleem is. Je maakt screenshot(s) van het debuggen op het moment dat je via de debugger console ziet wat er mis is. Deze screenshots met daarbij uitleg over het probleem en de bijhorende oplossing post je in het bijhorende github issue. 
 [Hier de link naar mijn issues](https://github.com/erwinhenraat/TowerDefenseTemplate/issues/)
 
-## Product 6: Game design met onderbouwing 
+## Product 6: "Game design met onderbouwing "
 
 Je gebruikt een game design tool om je game design vast te leggen en te communiceren. Daarnaast onderbouw je de design keuzes ten aanzien van “playability” en “replayability” voor je game schriftelijk. 
 
