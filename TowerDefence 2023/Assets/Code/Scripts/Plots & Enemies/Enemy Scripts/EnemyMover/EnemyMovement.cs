@@ -17,13 +17,13 @@ public class EnemyMovement : MonoBehaviour
         target = LevelManager.main.path[pathIndex];  //deze target zorgt ervoor dat de code die in 
     }                                                // De levelmaneger code staat ook hier wordt gebruikt deze code gebruikt het voor de Waypoint die  worden aangeroepen in de levelmanager 
 
-    private void Update()          //Deze regel berekent de afstand tussen het huidige doelpunt (target.position) en de positie van het object (transform.position) met behulp van Vector2.Distance
+    private void Update()         
     {
-        if (Vector2.Distance(target.position, transform.position) <= 0.1f)   
+        if (Vector2.Distance(target.position, transform.position) <= 0.1f)    //Deze regel berekent de afstand tussen het huidige doelpunt (target.position) en de positie van het object (transform.position) met behulp van Vector2.Distance
         {
             pathIndex++;
 
-            if (pathIndex == LevelManager.main.path.Length)
+            if (pathIndex == LevelManager.main.path.Length) 
             {
                 EnemySpawner.onEnemyDestroy.Invoke();
                 Destroy(gameObject);
