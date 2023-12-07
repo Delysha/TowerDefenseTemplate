@@ -35,38 +35,34 @@ dit is de link naar de [Build](https://github.com/Delysha/TowerDefenseTemplate/r
 
 ## Product 6: "Game design met onderbouwing "
 
-Je gebruikt een game design tool om je game design vast te leggen en te communiceren. Daarnaast onderbouw je de design keuzes ten aanzien van “playability” en “replayability” voor je game schriftelijk. 
-
-Voorbeeld van een one page design:
-![](https://external-preview.redd.it/48mnMpA0TbiihGo4HsJiWrJhK72xeTRwV2o70_AKilw.jpg?auto=webp&s=3a1ae18f0e4fba7a465643987cbe9cf409466e53)
+mijn OnePage.
+![OnePage](readmeVisuals/TowerDefense%20Onepage.psd)
 
 Omschrijf per mechanic welke game design keuzes je hebt gemaakt en waarom je dit hebt gedaan.
 
-*  **Je game bevat torens die kunnen mikken en schieten op een bewegend doel.** 
+* **Je game bevat torens die kunnen mikken en schieten op een bewegend doel.** 
+*mijn game heeft turrets waar mee je kan schieten als er een enemy in de buurt is van de Schooter en als de enemy verder loopt gaat de turret naar een andere enemy en zo gaat het door.*
+*maar ik heb heb niet maar 1 turret nee ik heb twee verschillende 1 die gewoon op een normalen snelheid schiet en een tweede die achter elkaar blijf schieten waardoor je sneller een enemy killed*
 
-*Mijn torens hebben ook nog een f.o.v waardoor je pas gaan mikken als enemies in de buurt zijn. ook hebben mijn torens geen 360 graden view maar 90 graden waardoor het een extra uitdaging is voor de speler om de torens ook op de meest tactische manier te roteren.*
+* **Je game bevat vernietigbare vijanden die 1 of meerderen paden kunnen volgen.**  
+*mijn game bevat een vernietigbare vijhand die 1 pad volgt door een bloemen tuin met waypoints op verschillende hoeken waardoor die beter op het pad kan lopen.*
 
-*  **Je game bevat vernietigbare vijanden die 1 of meerderen paden kunnen volgen.**  
+* **Je game bevat een “wave” systeem waarmee er onder bepaalde voorwaarden (tijd/vijanden op) nieuwe waves met vijanden het veld in komen.**
+*mijn game bevat een wave system die er voor zorgt dat als je alle enemies dood er een nieuwe wave begint na 5 seconde* 
+*maar ook als je ze niet allemaal dood komt er alsnog een nieuwe wave na dat alle enemies hun eind doel hebben bereikt of dood zijn na 5 seconde.*
 
-**
+* **Een “health” systeem waarmee je levens kunt verliezen als vijanden hun doel bereiken en zodoende het spel kunt verliezen.** 
+*ik heb een Health system met als een enemy zijn doel bereikt er een leven weg gaat en je hebt 5 levens als je dus helemaal dood gaat heb je een death screen om opnieuw te beginnen*
 
-*  **Je game bevat een “wave” systeem waarmee er onder bepaalde voorwaarden (tijd/vijanden op) nieuwe waves met vijanden het veld in komen.**
-
-*Onderbouwing hier...*
-
-*  **Een “health” systeem waarmee je levens kunt verliezen als vijanden hun doel bereiken en zodoende het spel kunt verliezen.** 
-
-*Onderbouwing hier...*
-
-*  **Een “resource” systeem waarmee je resources kunt verdienen waarmee je torens kunt kopen en .evt upgraden.**
+* **Een “resource” systeem waarmee je resources kunt verdienen waarmee je torens kunt kopen en .evt upgraden.**
 
 *Onderbouwing hier...*
 
-*  **Een “upgrade” systeem om je torens te verbeteren.**
+* **Een “upgrade” systeem om je torens te verbeteren.**
 
 *Onderbouwing hier...*
 
-*  **Een “movement prediction” systeem waarmee je kan berekenen waar een toren heen moeten schieten om een bewegend object te kunnen raken. (Moeilijk)**
+* **Een “movement prediction” systeem waarmee je kan berekenen waar een toren heen moeten schieten om een bewegend object te kunnen raken. (Moeilijk)**
 
 *Onderbouwing hier...*
 
