@@ -76,4 +76,4 @@ Plaats in de readme een link naar je trello en **zorg ervoor dat je deze openbaa
 
 ## Product 10: Gitflow conventions
 
-[GitFlow](readmeVisuals/GitFlow2.png)
+![GitFlow](readmeVisuals/GitFlow2.png)
