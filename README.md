@@ -36,7 +36,7 @@ dit is de link naar de [Build](https://github.com/Delysha/TowerDefenseTemplate/r
 ## Product 6: "Game design met onderbouwing "
 
 mijn OnePage.
-![OnePage](readmeVisuals/TowerDefense%20Onepage.psd)
+![OnePage](readmeVisuals/Onepage.png)
 
 Omschrijf per mechanic welke game design keuzes je hebt gemaakt en waarom je dit hebt gedaan.
 
