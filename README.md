@@ -57,14 +57,14 @@ Omschrijf per mechanic welke game design keuzes je hebt gemaakt en waarom je dit
 * **Een “resource” systeem waarmee je resources kunt verdienen waarmee je torens kunt kopen en .evt upgraden.**
 *ik heb een Resource system waarbij als je een enemy dood je 25 coins krijgt om een nieuwe turret te kopen maar dan moet je wel 100 coins hebben anders kan je het niet halen.*
 
-## Product 7: Class Diagram voor volledige codebase 
+## Product 7: Class Diagram voor volledige codebase
 
-Je brengt je volledige codebase in kaart met behulp van een class diagram. Binnen de classes hoeven geen private members te worden weergegeven. Wel alle public members (fields en methods). Ook geef je indien relevant de relaties tussen je classes weer. Je class diagram plaats je in je readme op github. Evt mag je dit doen m.b.v de [“Mermaid”](https://mermaid.js.org/syntax/classDiagram.html) tool.
+![Mijn Class Diagram](readmeVisuals/JA.png)
 
 ## Product 8: Prototype test video
-Je hebt een werkend prototype gemaakt om een idee te testen. Omschrijf if je readme wat het idee van de mechanics is geweest wat je wilde testen en laat een korte video van de gameplay test zien.
 
-[mijn video](https://youtu.be/CfQasrKZ8MU)
+Je hebt een werkend prototype gemaakt om een idee te testen. Omschrijf if je readme wat het idee van de mechanics is geweest wat je wilde testen en laat een korte video van de gameplay test zien.
+[mijn tower defence game video gespeeld door een vriend](https://youtu.be/CfQasrKZ8MU)
 
 ## Product 9: SCRUM planning inschatting 
 
